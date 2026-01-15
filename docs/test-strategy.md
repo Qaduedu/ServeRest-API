@@ -1,6 +1,5 @@
-# 1. Escopo
+# 1.Features essenciais: 
 
-## Features essenciais: 
 
 ###Autenticação e Autorização, Consulta de Saldo, Criação de Transações Financeiras, Listagem de Transações, Transferência entre Contas, Validações e Tratamento de Erros, Segurança Básica e Acesso Indevido.
 Todas as features serão testadas prioritariamente em nível de API, com possibilidade de testes End-to-End quando houver interface web disponível.
